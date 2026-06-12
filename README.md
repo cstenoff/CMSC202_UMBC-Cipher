@@ -6,7 +6,6 @@ inheritance, polymorphism, and pointer-based class relationships to create a fle
 software architecture.
 
 
-
 Skills Demonstrated:
 
 Object-Oriented Programming
